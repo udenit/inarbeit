@@ -1,5 +1,7 @@
 body {
     margin: 0;
-    background: lightblue;
+    margin-top: 10%;
+    background-image: linear-gradient(to top left, #0371b6, #004570) ;
     text-align: center;
+    color: whitesmoke;
 }
